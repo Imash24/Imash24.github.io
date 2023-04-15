@@ -1,6 +1,4 @@
-# Project Title
-
-Brief description of your project.
+# THIS IS THE SAMPLE SITE USED FOR CLOUDFLARE TESTING....
 
 ## Table of Contents
 
